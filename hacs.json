@@ -1,5 +1,6 @@
 {
-  "name": "Brightside",
+  "name": "Brightside Theme",
   "render_readme": true,
-  "hide_default_branch": true
+  "hide_default_branch": true,
+  "homeassistant": "2026.1.0"
 }
