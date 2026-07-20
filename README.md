@@ -1,2 +1,2 @@
-# brightside-theme
-Thoughtful usability refinements for Home Assistant’s default theme.
+# Brightside Theme
+Brightside is a lightweight refinement of Home Assistant’s default theme.
