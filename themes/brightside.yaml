@@ -1,0 +1,6 @@
+Brightside:
+  state-climate-fan_only-color: "#43A047"
+
+  modes:
+    light: {}
+    dark: {}
